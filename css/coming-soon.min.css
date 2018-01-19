@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Coming Soon v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/coming-soon)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/master/LICENSE)
+ */html{height:100%}
+
+ h1,h2,h3,h4,h5,h6{font-family:Merriweather;font-weight:700}
+ body{height:100%;
+   position:relative;
+   font-family:'Source Sans Pro';
+   font-weiba7c37ght:300}
+
+.overlay{
+  position:absolute;
+  height:100%;
+  width:100%;
+  background-color:#D9853B;
+  opacity:.4;
+  z-index:-5}
+.masthead{
+  position:relative;
+  overflow:hidd.overlay{
+  position:absolute;
+  height:100%;
+  width:100%;
+  background-color:#D9853B;
+  opacity:.1;
+  z-index:-5}en;
+  padding-bottom:3rem}
+.masthead .masthead-bg{
+  position: absolute;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background-color:rgba(11,17,0,.6);
+  transform: skewY(-2deg);
+  transform-origin:bottom left}
+.masthead .masthead-content h1{
+  font-size:2.5rem}
+.masthead .masthead-content p
+  {font-size:1.2rem
+  font-weight : 500;}
+.masthead .masthead-content p strong{
+  font-weight:900}
+.masthead .masthead-content .input-group-newsletter input{
+  font-size:1rem;
+  padding:0.1rem}
+.masthead .masthead-content .input-group-newsletter button{
+  font-size:.8rem;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  padding:0.8rem}
+@media (min-width:720px){
+.masthead{
+  height:100%;
+  width:40rem;
+  padding-bottom:0}
+.masthead .masthead-bg{
+
+  transform:skewX(25deg);
+  transform-origin: bottom left;}
+.masthead .masthead-content{
+  padding-left:3rem;
+  padding-right:10rem}
+.masthead .masthead-content h1{
+  font-size:3rem}
+.masthead .masthead-content p{
+  font-size:1.3rem}}
+.social-icons ul{
+  margin-top:2rem}
+.social-icons ul>li{
+  margin-left:1rem;
+  margin-right:1rem;
+  display:inline-block}
+.social-icons ul>li>a{
+  display:block;color:#000000;
+  background-color:rgba(29, 202, 255, 0.8);
+  border-radius:100%;
+  font-size:2rem;
+  line-height:4rem;
+  height:4rem;
+  width:4rem}
+@media (min-width:768px){
+.social-icons{
+  position:absolute;right:2.5rem;
+  bottom:2rem}
+.social-icons ul{
+  margin-top:0}
+.social-icons ul>li{
+  display: flex;
+  margin-left:0;
+  margin-right:0;
+  margin-bottom:2rem}
+.social-icons ul>li:last-child{
+  margin-bottom:0}
+.social-icons ul>li>a{
+  transition:all .2s release;
+  font-size:2rem;
+  line-height:4rem;
+  height:4rem;
+  width:4rem}ba7c37
+.social-icons ul>li>a:hover{
+  background-color:#002e66}}
+.btn-secondary{
+  background-color:#1A47A9;
+  border-color:#204A87}
+.btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{
+  background-color:#000000!important;
+  border-color:#555753!important}
+.input{
+  font-weight:300!important}
